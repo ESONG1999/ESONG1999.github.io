@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "My girl friend and My girl friend's cat"
+excerpt: "<img src='https://ESONG1999.github.io/images/gf_cat.jpeg' width='300'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Say hi to my girl friend and her cute cat QIQI.
