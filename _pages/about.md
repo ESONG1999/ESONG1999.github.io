@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, welcome to my personal website. I am an ECE M.S. students at [UCSD](https://www.ece.ucsd.edu/). I have research experience in statistical signal processing and computer vision. I have been focusing on object detection in Bird's Eye View (BEV) perception. And I am planning to focus on the intersection of medical imaging and computer vision in future. Please check my cv [here](https://ESONG1999.github.io/files/Yuze_Song.pdf).
+Hello, welcome to my personal website. I am an ECE M.S. students at [UCSD](https://www.ece.ucsd.edu/). I have research experience in statistical signal processing and computer vision. I have been focusing on object detection in Bird's Eye View (BEV) perception. And I am planning to focus on the intersection of medical imaging and computer vision in future. Please check my cv [here](https://ESONG1999.github.io/files/Yuze_Song_cv.pdf).
 
 **I am actively looking for a PhD position in FALL 2023!**
 
