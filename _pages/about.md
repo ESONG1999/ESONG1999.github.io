@@ -18,7 +18,7 @@ Education
 
 Research Experience
 ======
-* Ph.D. student, [SEIBERT LAB](https://medschool.ucsd.edu/som/radiation-medicine/research/labs/seibert/Pages/default.aspx), UCSD, 2023-now
+* Ph.D. student, [SEIBERT LAB](https://www.seibertlab.com/), UCSD, 2023-now
 * Research Intern, [SVCL Lab](http://www.svcl.ucsd.edu/), UCSD, 2022-2022
 * Research Assistant, [College of Information Science & Electronic Engineering](http://www.isee.zju.edu.cn/iseenglish/), ZJU, 2020-2021
 * Research Intern, [Guo Group](http://www.guogroup.org/), UMich, 2020-2020
