@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, welcome to my personal website. I am an ECE Ph.D. student at [UCSD](https://www.ece.ucsd.edu/). I have research experience in statistical signal processing and computer vision. Now I am focusing on the intersection of medical imaging and computer vision for prostate lesion detection. Please check my cv [here](https://ESONG1999.github.io/files/Yuze_Song_cv.pdf).
+Hello, welcome to my personal website. I am an ECE Ph.D. student at [UCSD](https://www.ece.ucsd.edu/). I have research experience in statistical signal processing and computer vision. Now I am focusing on the intersection of medical imaging and computer vision for prostate lesion detection.
 
 Education
 ======
